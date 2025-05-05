@@ -1,0 +1,37 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "startDate": "2025-05-02",
+      "endDate": "2025-05-02",
+      "text": "会議",
+      "category": "仕事",
+      "status": "未着手",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "timeType": false
+    },
+    {
+      "id": 2,
+      "startDate": "2025-05-03",
+      "endDate": "2025-05-06",
+      "text": "ランチ",
+      "category": "プライベート",
+      "status": "進行中",
+      "startTime": "",
+      "endTime": "",
+      "timeType": true
+    },
+    {
+      "id": 3,
+      "startDate": "2025-05-07",
+      "endDate": "2025-05-07",
+      "text": "ジム",
+      "category": "健康",
+      "status": "完了",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "timeType": false
+    }
+  ]
+}
